@@ -47,7 +47,7 @@ let resumeData = {
         "specialization":"Full Stack",
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2019",
-        "Achievements":"Employee of the mont in oct 2018"
+        "Achievements":"Employee of the month in oct 2018"
       },
       // {
       //   "CompanyName":"Some Company",
